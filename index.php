@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: FOUR 4to6 Random-Image Block
- * Plugin URI: https://github.com/four4to6/4to6-Block-Examples
+ * Plugin URI: https://github.com/four4to6/4to6-Random-Image-Block-Examples
  * Description: This is the Custom Block Plugin of the Block Editor (Gutenberg).
  * Author:  FOUR 4to6
  * Author URI: https://neco913.kirara.st/
