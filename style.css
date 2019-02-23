@@ -1,0 +1,7 @@
+/**
+ * Note that these styles are loaded *before* editor styles, so that
+ */
+.wp-block-myplugin-random-image {
+border-radius: 10px;
+filter: contrast(1.2) saturate(1.6) sepia(.4) drop-shadow(5px 5px 10px rgba(0,0,0,0.5));
+}
