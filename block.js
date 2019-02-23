@@ -22,7 +22,7 @@
 
 		category: 'common',
 
-                description: __( 'Block displaying random images.' ),
+                description: __( 'Block displaying Random Images.' ),
 
                 // Make it easier to discover a block with keyword aliases.
                 // These can be localised so your keywords work across locales.
