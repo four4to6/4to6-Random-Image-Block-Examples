@@ -1,21 +1,21 @@
 4to6-Random-Image-Block-Examples
 ===
-4to6-Random-Image-Block-Examples は、
-WordPress ブロックエディタ (Gutenberg) 用の
+4to6-Random-Image-Block-Examples は、 
+WordPress ブロックエディタ (Gutenberg) 用の 
 カスタマイズ ブロック example です。
 
 ## Description
 
-あくまで beginner が対象です。
-カスタムブロックをCreateしてみたいとか、
+あくまで beginner が対象です。 
+カスタムブロックをCreateしてみたいとか、 
 Tryしてみたいという方のTips and Referenceになれば幸いです。
 
 note: It is not secure because the image source is non-ssl communication.
 
 ## Usage
 
-WordPress plug-inとしてインストールしてください。
-dashboardからのインストールか、ファイルをuploadして
+WordPress plug-inとしてインストールしてください。 
+dashboardからのインストールか、ファイルをuploadして 
 インストールして頂く事で、Custom Blockとしてお使い頂けます。
 
 ## Install
