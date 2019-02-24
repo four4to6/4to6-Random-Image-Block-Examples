@@ -58,11 +58,17 @@
 			children.push(
 				el( 'select', { value: category, onChange: setCategory },
 					el( 'option', null, '- Select -' ),
+					el( 'optgroup', { label: 'Living Thing' }, ),
 					el( 'option', { value: 'cats' }, 'Cats' ),
-					el( 'option', { value: 'fashion' }, 'Fashion' ),
 					el( 'option', { value: 'animals' }, 'Animals' ),
+					el( 'option', { disabled: 'people'}, 'People' ),
+					el( 'optgroup', { label: 'To Spread Charm' }, ),
+					el( 'option', { value: 'fashion' }, 'Fashion' ),
 					el( 'option', { value: 'city' }, 'City' ),
-					el( 'option', { value: 'nature' }, 'Nature' )
+					el( 'option', { disabled: 'nightlife'}, 'Nightlife' ),
+					el( 'optgroup', { label: 'Big Natures' }, ),
+					el( 'option', { value: 'nature' }, 'Nature' ),
+					el( 'option', { disabled: 'sports'}, 'Sports' )
 				)
 			);
 
